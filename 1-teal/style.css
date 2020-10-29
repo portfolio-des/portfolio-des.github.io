@@ -681,3 +681,20 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
+.center {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.fab:hover{
+    color:black !important;
+    transition: 0.3s;
+}
+
+.p-img{
+    padding:40px;
+}
