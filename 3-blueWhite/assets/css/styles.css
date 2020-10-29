@@ -532,3 +532,21 @@ img{
     font-size: 1.25rem;
   }
 }
+
+
+.center {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.fab:hover{
+    color:#324e70 !important;
+    transition: 0.3s;
+}
+
+.p-img{
+    padding:40px;
+}
